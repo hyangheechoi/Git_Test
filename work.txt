@@ -1,12 +1,6 @@
-<<<<<<< HEAD
 1
 2
 right1
-=======
-left1
-left2
-3
->>>>>>> 0a4bf4667cd1a96ba66cd219802a8ab41fc2560a
 4
 5
 6
